@@ -87,7 +87,7 @@ The assets are organized in the following folders inside the public folder:
 - UI  
 
 ## Audio Assets
-The following audio sources were used in this projects with the following names, those are either marked as completely free or under public domain, though I think I don't have rights to include them as part of my source files, so I share the site where you can download them and copy it to those paths:
+The following audio sources were used in this project with the given names, those are either marked as completely free or under public domain, though I think I don't have rights to include them as part of my source files, so I share the site where you can download them and copy it to those paths:
 
 - [assets/audio/battleThemeA.mp3](https://opengameart.org/content/battle-theme-a)
 - [assets/audio/battleThemeB.mp3](https://opengameart.org/content/battle-theme-b-for-rpg)
