@@ -11,7 +11,8 @@ it was build using the phaser CLI tool using a react based template
 
 [Node.js](https://nodejs.org) is required to install dependencies and run scripts via `npm`.
 
-Download and copy the audio files from the Audio Assets Section to their respective folder.
+Download and copy the audio files from the [Audio Assets Section](##-Audio-Assets) to their respective folder.
+
 
 ## Available Commands
 
